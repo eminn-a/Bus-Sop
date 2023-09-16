@@ -1,4 +1,5 @@
 async function getInfo() {
+  //lets get started!
   //get elements
   let stopID = document.getElementById("stopId").value;
   let stopName = document.getElementById("stopName");
